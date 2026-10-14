@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /checkout
+Disallow: /confirmation
+Sitemap: https://sabor-salvador-sparks.namans792420.chatgpt.site/sitemap.xml
