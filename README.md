@@ -1,2 +1,0 @@
-# Sabora-el-Salvador
-food
